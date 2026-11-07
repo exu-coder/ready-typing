@@ -1,0 +1,68 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+# Required so the release job can create releases and attach assets.
+permissions:
+  contents: write
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build (Windows)
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 8 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      # build-setup.ps1 publishes the self-contained trainer, gzips the payload,
+      # builds the .NET Framework 4.8 installer window and copies both
+      # executables into dist/.
+      - name: Build trainer and installer
+        shell: pwsh
+        run: .\build-setup.ps1
+
+      - name: Upload dist artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ready-typing-dist
+          path: |
+            dist/ReadyTyping.exe
+            dist/ReadyTypingSetup.exe
+          if-no-files-found: error
+
+      # Only tagged builds produce a public release. The single self-contained
+      # trainer and the full installer are attached automatically.
+      - name: Create release for tags
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/ReadyTyping.exe
+            dist/ReadyTypingSetup.exe
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          body: |
+            ## Ready Typing v2.0.0
+
+            A self-contained, offline Bengali Bijoy (SutonnyMJ) typing trainer.
+
+            - `ReadyTypingSetup.exe` – recommended installer (per-user, no admin rights)
+            - `ReadyTyping.exe` – portable single executable, nothing to install
+
+            The app embeds its own SutonnyMJ font, so nothing is added to the Windows font set.
