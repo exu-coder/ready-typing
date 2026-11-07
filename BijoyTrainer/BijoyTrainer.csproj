@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+
+    <!-- Assembly identity -->
+    <AssemblyName>BijoyTrainer</AssemblyName>
+    <RootNamespace>BijoyTrainer</RootNamespace>
+
+    <!-- Product identity shown in Explorer / Add-Remove Programs -->
+    <Product>Ready Typing</Product>
+    <AssemblyTitle>Ready Typing - Bijoy Typing Trainer</AssemblyTitle>
+    <Description>A self-contained Bengali Bijoy (SutonnyMJ) typing trainer.</Description>
+    <Version>2.0.0</Version>
+    <ApplicationIcon>Resources\app.ico</ApplicationIcon>
+
+    <!-- No console window; the font is loaded from an embedded resource. -->
+    <DebugType>embedded</DebugType>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--
+      LogicalName is pinned deliberately: FontLoader.cs looks the stream up by
+      this exact name. Keeping it stable means the assembly name can change
+      without breaking font loading.
+    -->
+    <EmbeddedResource Include="Resources\SutonnyMJ.ttf"
+                      LogicalName="BijoyTrainer.Resources.SutonnyMJ.ttf" />
+    <EmbeddedResource Include="Data\lessons.txt"
+                      LogicalName="BijoyTrainer.Data.lessons.txt" />
+    <EmbeddedResource Include="Resources\app.ico"
+                      LogicalName="BijoyTrainer.Resources.app.ico" />
+    <EmbeddedResource Include="Resources\logo.png"
+                      LogicalName="BijoyTrainer.Resources.logo.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,159 @@
+﻿// Ready Typing - Bijoy (SutonnyMJ legacy) lesson bank
+// Format: Optional title => target text
+// # starts a group heading; // starts a comment; blank lines are ignored.
+// Target text is SutonnyMJ legacy code, NOT Unicode Bengali.
+// Use the matching SutonnyMJ font and Bijoy keyboard layout.
+
+# Warm-up - Home Row
+Home-row rhythm => K Z ` K Z ` K K Z Z ` ` K Z ` Z K `
+Home-row words => Kg Kj ej Ze `g Kgj
+Vowel signs => Kv wK Kx Ky K~ ‡K ‰K Kv wK
+Vowel words => AvKvk evZvm LvZv gvZv
+
+# Reaching Out
+Top row => O h W c U P O h W c U P
+Lower row => R n M o e K Z ` R n M o
+Shift-row consonants => L N Q S V X L N Q S V X
+
+# Everyday Words
+First words => Rj evwo MvQ nvZ Wvj cov ‡`Lv
+Shift-row words => Lei Ni Qwe ‡Nvov XvKbv
+People and places => Avwg Zywg Avgiv ‡Zvgiv gvbyl evsjv fv‡jv mgq
+
+# Conjuncts
+Joining letters => ³ ¶ ó ô Î K« c« M«
+Conjunct words => wk¶v Kó ‡c«g Îwk
+
+# Sentences
+Greeting => Avwg evsjvq Mvb MvB|
+My country => Avgvi ‡`k evsjv‡`k|
+Language => Avwg evsjv fvlvq K_v ejwQ|
+
+# Digits and Punctuation
+Digits => 1234567890| KvR|
+
+# Longer Practice
+Two sentences => Avgvi ‡`k evsjv‡`k| Avwg evsjv fvlvq K_v ejwQ|
+
+# Bangladesh Pride
+Bangladesh Pride 1 => jvj mey‡Ri cZvKvq gw‡k Av‡Q Avgvi c«vY
+Bangladesh Pride 2 => evsjv‡`k Avgvi M©e, Avgvi AnsKvi
+Bangladesh Pride 3 => meyR gv‡Vi ‡`‡k gb nviw‡q hvq
+Bangladesh Pride 4 => Rb¥f~gwi fv‡jvevmvq eyK f‡i hvq
+Bangladesh Pride 5 => gvUwi M‡Ü Row‡q Av‡Q Avgvi ‰kke
+Bangladesh Pride 6 => ‡`‡ki Rb¨ fv‡jvevmv fvlvq c«Kvk Kiv hvq bv
+Bangladesh Pride 7 => Avgvi ‡`‡ki bvg kyb‡jB eyK M©‡e f‡i hvq
+Bangladesh Pride 8 => ¯^vaxbZvq ‡jLv Avgvi ‡`‡ki Mí
+Bangladesh Pride 9 => Avgvi ciwPq evsjv‡`kw ej‡ZB kvš—w
+Bangladesh Pride 10 => ‡hLv‡b _vKw, gb c‡o _v‡K ‡`‡k
+
+# Nature & Beauty
+Nature & Beauty 1 => mey‡R mey‡R fiv Avgvi ‡`k
+Nature & Beauty 2 => evsjv‡`‡ki c«K…Zw GK UyK‡iv ¯^©M
+Nature & Beauty 3 => avb‡¶‡Zi mey‡R nviw‡q ‡h‡Z B‡P&Q K‡i
+Nature & Beauty 4 => b`xi cvbw‡Z gw‡k Av‡Q ‡`‡ki ‡mŠ›`©h
+Nature & Beauty 5 => M«vg evsjvi ‡mŠ›`©h AZyjbxq
+Nature & Beauty 6 => cvLwi Mvb Avi b`xi aviv Avgvi c«wq
+Nature & Beauty 7 => c«ZwUv FZy‡Z ‡`k bZyb i~‡c mv‡R
+Nature & Beauty 8 => evsjv‡`‡ki AvKvk me‡P‡q my›`i
+Nature & Beauty 9 => gvUwi c_ a‡i nvuU‡Z kvš—w jv‡M
+Nature & Beauty 10 => c«K…Zwi ‡Kv‡j gb fv‡jv n‡q hvq
+
+# Cox's Bazar & Sea
+Cox's Bazar & Sea 1 => mgy`« ‰mK‡Z gb nviw‡q hvq
+Cox's Bazar & Sea 2 => K·evRv‡ii ‡XD‡q fv‡m Avb›`
+Cox's Bazar & Sea 3 => ‡m›Ugv©Uw‡bi cvbw‡Z nviv‡bv `wb
+Cox's Bazar & Sea 4 => mgy`« cv‡o m~©hv¯— ‡`L‡Z fv‡jv jv‡M
+Cox's Bazar & Sea 5 => ‰mK‡Zi nvIqvq gb ‡d«k n‡q hvq
+Cox's Bazar & Sea 6 => ‡XD‡qi k‡ã jyKw‡q Av‡Q kvš—w
+Cox's Bazar & Sea 7 => mgy‡`«i cv‡o KvUv‡bv `wb g‡b _v‡K
+Cox's Bazar & Sea 8 => bxj cvbwi ‡`‡k bw‡R‡K Lyu‡R cvB
+Cox's Bazar & Sea 9 => evjyP‡i cv‡q nvuUv Avb‡›`i
+Cox's Bazar & Sea 10 => mgy`« Avgv‡K Uv‡b evievi
+
+# Sundarban
+Sundarban 1 => my›`ie‡bi mey‡R jyKw‡q eb¨ Rxeb
+Sundarban 2 => ev‡Ni ‡`‡ki Mí ‡kvbv hvq
+Sundarban 3 => b`x Avi e‡bi gwjb my›`ieb
+Sundarban 4 => my›`ie‡b nviw‡q hvIqvi kvš—w
+Sundarban 5 => g¨vb‡M«v‡fi ‡`‡k GK Ab¨iKg Abyf~Zw
+Sundarban 6 => my›`ie‡bi c«K…Zw fvlvq ‡evSv‡bv hvq bv
+Sundarban 7 => ‡bŠKv f«g‡Y my›`ie‡bi ‡mŠ›`©h
+Sundarban 8 => eb¨ cvLwi Wv‡K my›`ieb Rxeš—
+Sundarban 9 => my›`ieb Avgvi ‡`‡ki M©e
+Sundarban 10 => c«K…Zwi Avmj i~c ‡`L‡Z my›`ieb
+
+# Dhaka
+Dhaka 1 => XvKvi e¨¯—Zv, Zey fv‡jvevmv
+Dhaka 2 => cyivb XvKvi AjwMjw‡Z BZwnvm
+Dhaka 3 => XvKvi U«vdwK, Zey XvKv Avgvi
+Dhaka 4 => b`xi cv‡k XvKv, Avgvi c«wq kni
+Dhaka 5 => XvKvi iv¯—vq nviw‡q ‡MQw ‡hb
+Dhaka 6 => ivRavbxi ‡Kvjvn‡j Rxeb
+Dhaka 7 => XvKvi mKvj, Avgvi bZyb `wb
+Dhaka 8 => kn‡ii fw‡o ‡`‡ki gvqv LyuRw
+Dhaka 9 => XvKv gv‡b nvRv‡iv ¯^cœ
+Dhaka 10 => BU Kv‡Vi R½‡jI fv‡jvevmv Av‡Q
+
+# Hills, Sajek, Bandarban
+Hills, Sajek, Bandarban 1 => mv‡R‡Ki ‡g‡N fvm‡Z fv‡jv jv‡M
+Hills, Sajek, Bandarban 2 => cvnv‡oi ey‡K nviw‡q hvIqv `wb
+Hills, Sajek, Bandarban 3 => ev›`ie‡bi meyR cvnvo gb ‡Qvuq
+Hills, Sajek, Bandarban 4 => ‡g‡Ni ‡Kv‡j mKvjUv my›`i
+Hills, Sajek, Bandarban 5 => cvnvow c‡_ nvuU‡j kvš—w cvB
+Hills, Sajek, Bandarban 6 => AvKvk Qyu‡q ‡djvi Avb›`
+Hills, Sajek, Bandarban 7 => PÆM«v‡gi cvnv‡o gb AvU‡K hvq
+Hills, Sajek, Bandarban 8 => nw‡gj cvnv‡oi mKvj
+Hills, Sajek, Bandarban 9 => cvnvo ‡`L‡jB gb ‡d«k
+Hills, Sajek, Bandarban 10 => c«K…Zwi me‡P‡q my›`i i~c cvnvo
+
+# Sylhet & Tea Garden
+Sylhet & Tea Garden 1 => mw‡j‡Ui Pv evMv‡b nviw‡q hvIqv
+Sylhet & Tea Garden 2 => meyR Pv cvZvq gb kvš—w
+Sylhet & Tea Garden 3 => kwjs cvnv‡oi ‡Kv‡j mw‡jU
+Sylhet & Tea Garden 4 => Rvdjs‡qi cvbw‡Z gb fv‡m
+Sylhet & Tea Garden 5 => mw‡j‡Ui Pv gv‡bB fv‡jvevmv
+Sylhet & Tea Garden 6 => ewQbvKv›`wi cv_‡i fvmv
+Sylhet & Tea Garden 7 => ‡U‡KiNv‡Ui c«K…Zw Ac~©e
+Sylhet & Tea Garden 8 => jvjvLv‡ji bxj cvbw
+Sylhet & Tea Garden 9 => mw‡j‡Ui evZv‡m gb ‡d«k
+Sylhet & Tea Garden 10 => meyR Pv evMvb Avgvi c«wq
+
+# River & Village Life
+River & Village Life 1 => cÙvi ey‡K ‡bŠKv fvmv‡bv
+River & Village Life 2 => M«v‡gi gvUwi c‡_ ‰kke
+River & Village Life 3 => b`xi cv‡o e‡m _vKvi Avb›`
+River & Village Life 4 => M«v‡gi mKv‡j cvLwi Mvb
+River & Village Life 5 => avb‡¶‡Zi cv‡k nvuUv
+River & Village Life 6 => gvUwi M‡Ü ‡`‡ki gvqv
+River & Village Life 7 => M«vg gv‡bB mnR Rxeb
+River & Village Life 8 => ‡bŠKvi gvSw ‡`‡ki M©e
+River & Village Life 9 => e©lvi cvbw‡Z ‡f‡m ‡eov‡bv
+River & Village Life 10 => b`x gvZ…f~gwi Ac~©e Dcnvi
+
+# Language & Culture
+Language & Culture 1 => evsjv fvlv Avgvi AnsKvi
+Language & Culture 2 => GKy‡k ‡de«yqviw fvlvi Rb¨ i³
+Language & Culture 3 => jvj meyR cZvKv fvlvi Rb¨B
+Language & Culture 4 => gvZ…fvlvq K_v ejvi Avb›`
+Language & Culture 5 => evsjv Mvb, evsjv KewZv Avgvi c«vY
+Language & Culture 6 => ‡`‡ki ms¯‹…Zw Avgvi ciwPq
+Language & Culture 7 => evDj Mvb gyLiwZ gvUw
+Language & Culture 8 => c‡njv ‰ekv‡Li Avb›`
+Language & Culture 9 => knx`‡`i i‡³ ‡jLv BZwnvm
+Language & Culture 10 => fvlv knx`‡`i c«Zw k«×v
+
+# Short Bangladesh Captions
+Short Bangladesh Captions 1 => Avgvi ‡`k, Avgvi c«vY
+Short Bangladesh Captions 2 => jvj mey‡R fv‡jvevmv
+Short Bangladesh Captions 3 => evsjv‡`k, Avgvi M©e
+Short Bangladesh Captions 4 => gvUwi ‡`‡k gb
+Short Bangladesh Captions 5 => mey‡Ri evsjv‡`k
+Short Bangladesh Captions 6 => ‡`‡ki ‡c«†g Wy‡e AvQw
+Short Bangladesh Captions 7 => Avgvi Rb¥f~gw
+Short Bangladesh Captions 8 => evsjv‡`k Abb¨
+Short Bangladesh Captions 9 => ‡`k‡c«gB k³w
+Short Bangladesh Captions 10 => evsjv‡`k Avgvi VwKvbv
+
+# Finale
+The Proposal => Avwg ‡Zvgv‡K fv‡jvevmw, n¨uv ZygwB Avgvi, ‡Zvgv‡K c«†cvR KiwQ, Zygw wK Avgvi n‡e|

@@ -1,0 +1,13 @@
+# Build output and packaging
+bin/
+obj/
+artifacts/
+dist/
+ReadyTypingSetup/Payload/
+*.gz
+
+# IDE and user state
+.vs/
+.vscode/
+*.user
+*.suo
